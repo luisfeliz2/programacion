@@ -2,7 +2,7 @@ package lista_tipo_pila;
 
 public class Nodo {
 	int informacion;
-	Nodo siguiente;
+	Nodo siguiente;//jdj
 	
 	public Nodo (int valor ) {
 		informacion = valor;
