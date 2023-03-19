@@ -5,5 +5,5 @@
  * @author luis
  *
  */
-module ListaTipopila {
+module Colecciones {
 }
